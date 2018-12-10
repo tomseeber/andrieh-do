@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 6 - Hahahahahahahahahahha moving on"
+title:  "Day 7 - Hahahahahahahahahahha moving on"
 date:   2018-12-08 02:35:37 -0500
 categories: december-2018
 ---
