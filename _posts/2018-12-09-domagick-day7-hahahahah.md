@@ -43,7 +43,7 @@ Every spirit has a internal representation that arises from the interaction betw
 
 Now Qigong actually teaches you in a classical sense, to actually pay real close attention to those body sensations, and then basically try to map out energy blocks and some body sensations to ill-adapted energy.  That is a gross high level overview.  If you are working in that way, it is not so hard to map up alien energies and then when you have a working map, summon something only with the set of "reactions".  As you move forward in working with an Alien spirit from the "outer" whatever, you just build a interface internally. We can call that a relationship, but with things that don't classically allow themselves to be anthropormized, relationship implies way too much humanity.  Interface is better.  
 
-![Interface Process](/assets/image/interface.jpeg)
+![Interface Process](/assets/images/interface.jpeg)
 
 So you have kinda a process to interface building.
 
