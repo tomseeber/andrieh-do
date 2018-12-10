@@ -11,4 +11,4 @@ So I did A few things.   First my Bro jason was around and he did some Qigong bu
 
 Jason was saying he felt like he was having kidney stone problems right before we started.   After the set, with the additional Angel support, he was so so impressed by this combination, that he asked for a video set of the Chilel.   He said after we were done with the Gigong and the medtation work, he didnt feel like the kidney stone was just dissloved out. Enough so that hes going to try some more.   This combination is something I tried before and it does seem to multiply the effectiveness of the Gigong.  
 
-We did the full set and then did straing up object concentration work.  I 	am starting to work out some additional helpers for the health kick ( including starting some gym work and revisiting the my fitness pall apt).
+We did the full set and then did straing up object concentration work.  I 	am starting to work out some additional helpers for the health kick ( including starting some gym work and revisiting the my fitness pall apt).  Going to switch to the 8 cade brocade soon.
