@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day 5 - Domagick, more bad social news, reflection"
-date:   2018-12-07 02:35:37 -0500
+date:   2018-12-06 02:35:37 -0500
 categories: december-2018
 ---
 ![Punch](/assets/images/punches.gif)

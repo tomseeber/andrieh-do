@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day 1 - Do Magick for December 2018/  Cleansing rebuilding!"
-date:   2018-12-03 13:35:37 -0500
+date:   2018-12-02 13:35:37 -0500
 categories: december-2018
 ---
 # Domagick Day 1

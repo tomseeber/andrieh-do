@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day 2 - High Weidness today/Fire Alchemy!"
-date:   2018-12-04 02:35:37 -0500
+date:   2018-12-03 02:35:37 -0500
 categories: december-2018
 ---
 # Day 2, High Weidness today.

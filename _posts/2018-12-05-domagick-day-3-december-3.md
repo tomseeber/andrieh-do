@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day 3 - Domagic... not very exciting"
-date:   2018-12-05 02:35:37 -0500
+date:   2018-12-04 02:35:37 -0500
 categories: december-2018
 ---
 ## Fed the spirits and did the work.

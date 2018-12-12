@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day 6 - Working Hard after Work"
-date:   2018-12-08 02:35:37 -0500
+date:   2018-12-07 02:35:37 -0500
 categories: december-2018
 ---
 
