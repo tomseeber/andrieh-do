@@ -5,7 +5,7 @@ date:   2018-12-03 13:35:37 -0500
 categories: december-2018
 ---
 # Domagick Day 1
-*Day 1, December 1, 2018*
+*Day 1, December 9, 2018*
 
 
 ## PreWork
