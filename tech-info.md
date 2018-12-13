@@ -28,3 +28,7 @@ Part of the talisman work on this project is an AIR based talisman work.  I am t
 - Tumblr API ( Very soon) cross work as by January - 1st ( posting via GIT push automation on integration to live, tricky)
 - Facebook API ( Very Soon ) cross work
 - Possibly movng to a Node.js App
+
+## Done Work
+- Deployed Liquid 12/3/2018
+- Set up crons/DNS on andriehvitimus.com 12/4/2018
