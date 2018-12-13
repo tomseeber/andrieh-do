@@ -29,6 +29,6 @@ Part of the talisman work on this project is an AIR based talisman work.  I am t
 - Facebook API ( Very Soon ) cross work
 - Possibly movng to a Node.js App
 
-## Done Work
+## Done Work So Far
 - Deployed Liquid 12/3/2018
 - Set up crons/DNS on andriehvitimus.com 12/4/2018
