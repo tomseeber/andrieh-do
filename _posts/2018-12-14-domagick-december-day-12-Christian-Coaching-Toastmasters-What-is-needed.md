@@ -35,7 +35,7 @@ Thought I could "make the coding better" by doing that .. and maybe it will when
 
 This relates to the body talisman and gigong work directly.   I have a lot of energy going out and if the things do not really bring joy or there isn't really a strong motivation, the things are intensely draining, when I am struggling with ... well energy.   Too many really unsatisfying interactions and activities and thats where you start looking at where to cut and doing something different else you get drained, and then sick.
 
-#The Toastmasters Problem
+# The Toastmasters Problem
 I am part of a Toastmaster group,  I am trying to better my public speaking.  I will be blunt, this year the toastmaster stuff is not going well.  I was "voted" in absentia as an officer and the group dynamics and group culture is horrible for me in a lot of ways.  I really am outsider, I don't have time to work on the speeches, the group is terrible at logistics, and gives lip service to getting new people in, but really it very insular.
 
 The question I always want to ask, outside the endless group pressures, is why should I care about the Toastmaster merit badges.  I want to get better at speaking and speaking for profit, end stop.  
