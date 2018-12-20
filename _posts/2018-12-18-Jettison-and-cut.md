@@ -5,7 +5,7 @@ date:   2018-12-18 13:35:37 -0500
 categories: december-2018
 ---
 ![danger](/assets/images/dontrun.png)
-
+sh
 Jettison.  The message from the universe.  The toastmaster word of the day.  Apropos exact message from the universe.
 
 	Jettison 
