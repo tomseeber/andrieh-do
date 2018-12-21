@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 17 - Anger Detoxing and Deconstructing"
+title:  "Day 15 - Anger Detoxing and Deconstructing"
 date:   2018-12-17 13:35:37 -0500
 categories: december-2018
 ---

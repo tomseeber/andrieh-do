@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 19 - Insight to Changes, Changing the Dynamic"
+title:  "Day 17 - Insight to Changes, Changing the Dynamic"
 date:   2018-12-18 13:35:37 -0500
 categories: december-2018
 ---

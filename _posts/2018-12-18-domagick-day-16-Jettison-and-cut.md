@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 18 - The Word of the Day - Jettison"
+title:  "Day 16 - The Word of the Day - Jettison"
 date:   2018-12-18 13:35:37 -0500
 categories: december-2018
 ---
