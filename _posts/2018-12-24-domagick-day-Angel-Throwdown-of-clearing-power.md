@@ -30,6 +30,9 @@ This was done with drawings on the floor, to make the floor talismanic with the 
 
 The house was completely rocking and I saw respectible  changes in behavior right from the start.
 
-Powerful changes actually. Moving forward on this.  Two rooms of people who were staying with us were actually pretty horrible.  There were lots of problems with them from crossing boundaries, to causing purposely.  Completely horrible.   The Archangel Michel got really pissed about how toxic the energy was and cleared it out.
+Powerful changes actually. Moving forward on this.  Two rooms of people who were staying with us were actually pretty horrible.  There were lots of problems with them from crossing boundaries, to causing problems purposely. No they didn't pay rent and we were trying to pay it forward. Completely horrible. New rule, Ill pay it forward from the outside of my house on.  The Archangel Michel got really pissed about how toxic the energy was and cleared it out.  Actually I cried while doing the summoning.  These parties were gone for Xmas.
+We asperged the house after boiling blessed herbs together.
 
-Again major positive behavior changes.   Good times.  The actual ritual was like 2 hours.
+Again major positive behavior changes in .   Good times.  The actual ritual was like 2 hours.
+
+There are a couple huge negatives.   It has taken me an immense bit of time to undo and work through the negativity around me that I could see after starting to do the qigong.  This was time I needed to work on my course work at Trilogy for the computer science classes.  I also because of the collective effect of the holiday + negativity clearing have been eating wrongly again.  Yes things are getting better, but its taken a toil to move the dial with the Qigong and purifications.   I have to get a handle on all that.   

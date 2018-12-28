@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 20"
+title:  "Day 21 Fae Purification taisman"
 date:   2018-12-21 13:35:37 -0500
 categories: december-2018
 ---
