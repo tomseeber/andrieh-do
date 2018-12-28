@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 18 - Insight to Changes, Changing the Dynamic"
+title:  "Day 18 - Every Day 1 Step"
 date:   2018-12-20 13:35:37 -0500
 categories: december-2018
 ---
