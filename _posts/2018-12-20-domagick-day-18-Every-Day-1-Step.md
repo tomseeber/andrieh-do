@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day 18 - Insight to Changes, Changing the Dynamic"
-date:   2018-12-18 13:35:37 -0500
+date:   2018-12-20 13:35:37 -0500
 categories: december-2018
 ---
 ![fish organizing](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB7Vt7oA8oKr_rmam0kpD2d5V0YjSXubk3I2TVE94I9Ligg-Qs)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day 17 - Insight to Changes, Changing the Dynamic"
-date:   2018-12-18 13:35:37 -0500
+date:   2018-12-19 13:35:37 -0500
 categories: december-2018
 ---
 ![grit](https://www.incimages.com/uploaded_files/image/970x450/True_Grit_1725x810-PAN_19746.jpg)
