@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day 23 Xmas, no Jesus"
-date:   2018-12-21 13:35:37 -0500
+date:   2018-12-25 13:35:37 -0500
 categories: december-2018
 ---
 ![Buddha Board](https://cdn.shopify.com/s/files/1/2524/0922/products/Sku_06836_06837-Buddha-Board_99155b23-4173-493b-9f70-6748f02ba284_1200x1200.jpg?v=1516892768)
