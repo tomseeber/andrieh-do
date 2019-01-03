@@ -4,7 +4,7 @@ title:  "Day 30 New Years Day and New Methods"
 date:   2019-1-1 13:35:37 -0500
 categories: december-2018
 ---
-![Krishna](../assets/images/krishna.jpg)
+![Krishna](/assets/images/krishna.jpg)
 
 # New Year New Methods
 First I did Qigong with a full Chilel set, then I did a full mantra work to evocation to the god Krishna.
