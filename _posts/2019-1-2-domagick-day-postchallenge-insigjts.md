@@ -4,7 +4,7 @@ title:  "Post Challenge Insights and Talisman work"
 date:   2019-1-3 13:35:37 -0500
 categories: december-2018
 ---
-![Rolling](https://i.pinimg.com/originals/0a/e6/b7/0ae6b767e726b76527260162fcdcae0f.jpg)
+![Rolling](https://vietnaminsider.vn/wp-content/uploads/2018/11/Vietnam-Seed-Market-Research-Report.jpg)
 
 Post the challenge, I took a day off was a no-mag.
 
